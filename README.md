@@ -4,6 +4,6 @@ Welcome to my GitHub Pages repository hosting documents.
 
 ## Documents
 
-- [Privacy Policy](./policy/PrivacyPolicy.pdf)
+- [Privacy Policy](./privacy/PrivacyPolicy.pdf)
 
   
